@@ -15,7 +15,7 @@ if (currentTime >= 1 && currentTime <= 11) {
   cssStyle.color = "aqua";
 } else if (currentTime >= 12 && currentTime <= 18) {
   greetings = "Good AfterNoon!";
-  cssStyle.color = "yellow";
+  cssStyle.color = "cornflowerblue";
 }
 
 ReactDOM.render(
