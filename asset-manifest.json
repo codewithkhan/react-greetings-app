@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/react-greetings-app/static/css/main.0cd2dc75.css",
-    "main.js": "/react-greetings-app/static/js/main.405fc711.js",
+    "main.js": "/react-greetings-app/static/js/main.86c3018a.js",
     "index.html": "/react-greetings-app/index.html",
     "main.0cd2dc75.css.map": "/react-greetings-app/static/css/main.0cd2dc75.css.map",
-    "main.405fc711.js.map": "/react-greetings-app/static/js/main.405fc711.js.map"
+    "main.86c3018a.js.map": "/react-greetings-app/static/js/main.86c3018a.js.map"
   },
   "entrypoints": [
     "static/css/main.0cd2dc75.css",
-    "static/js/main.405fc711.js"
+    "static/js/main.86c3018a.js"
   ]
 }
